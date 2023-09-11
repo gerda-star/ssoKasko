@@ -1,4 +1,4 @@
-package confog;
+package config;
 
 public class AppConfig {
     public final static String URL_PREP = "https://prep.sberbankins.ru/store/sberkasko20/";
